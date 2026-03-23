@@ -1,0 +1,10 @@
+[User Content] 
+ parts=[Part(
+  text='Find out the GST rate and price charged'
+), Part(
+  inline_data=Blob(
+    data=b'\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x08 \x00\x00\x07J\x08\x06\x00\x00\x00\xa5q\x89\x03\x00\x00\x0cMiCCPICC Profile\x00\x00H\x89\x95W\x07XSW\x1b>wdB\x08\x10\x88\x80\x8c\xb0\x97 "#\x80\x8c\x10V\x00\xd9C\x10\x95\x90\x04\x08#\xc6\x84\xa0\xe2FJ+...',
+    display_name='Screenshot 2026-02-28 at 2.02.31\u202fPM.png',
+    mime_type='image/png'
+  )
+)] role='user'
